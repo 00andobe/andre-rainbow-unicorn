@@ -13,13 +13,6 @@ var objectTest = {
 }
 console.log(returnString("x"));
 
-
-
-
-
-
-
-
  for(let i = 0; i < animals.length; i++) {
  	console.log(returnString(animals[i]));
  }
