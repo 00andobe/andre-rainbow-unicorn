@@ -1,2 +1,2 @@
-const animals = [ "apa", "orangutang", "gorilla", "get", "giraff"];
+const animals: string[] = [ "apa", "orangutang", "gorilla", "get", "giraff"];
 console.log(animals);
